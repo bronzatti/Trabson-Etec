@@ -2,14 +2,9 @@ ola gente bonita demais LUL
 
 
 
-git status - ve os negocio
+git pull - Da web para o arquivo
 
 
 
 
-git pull - puxa os bagulho
-
-
-
-
-git add . - eu fui beber agua, nao sei oq faz
+git add . | git commit -m "mensagem" | git push | git status - Do arquivo para a web
